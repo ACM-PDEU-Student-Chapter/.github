@@ -1,1 +1,1 @@
-# .github
+# ACM-PDEU Student Chapter
