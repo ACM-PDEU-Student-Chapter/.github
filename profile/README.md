@@ -1,1 +1,1 @@
-# ACM-PDEU Student Chapter
+# PDEU ACM Student Chapter
